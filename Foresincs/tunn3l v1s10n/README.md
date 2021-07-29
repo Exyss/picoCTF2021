@@ -41,7 +41,7 @@ The DIB Header Size should be a constant, always having the same value, 40 (0x28
 ![First fix](.img/half_fixed.bmp)
 
 6. By inspecting this “corrected” image with `exiftool` we can see that the total image size appears to be 2893400 bytes, while the image resolution is only 1134x307. This means that the image is showing only part of its pixels!
-7. By looking again on the Internet for the BMP file structure, we can see find that the group of 4-bytes starting from the offset 0x16 defines the display height of the image. We can edit this value to show more pixels (setting it to `32 04 00` 00should be enough), revealing the full image.
+7. By looking again on the Internet for the BMP file structure, we can see find that the group of 4-bytes starting from the offset 0x16 defines the display height of the image. We can edit this value to show more pixels (setting it to `32 04 00 00` should be enough), revealing the full image.
 
 ![Second fix](.img/fixed.bmp)
 
