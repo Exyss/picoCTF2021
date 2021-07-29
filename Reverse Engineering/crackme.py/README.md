@@ -23,5 +23,5 @@
 <details>
 <summary>Click to view the flag</summary>
 
-__picoCTF{1|\/|_4_p34|\|ut_502b984b}__
+__picoCTF{1|\\/|_4_p34|\\|ut_502b984b}__
 </details>

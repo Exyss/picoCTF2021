@@ -16,7 +16,7 @@ If you'd like to try some of these problems yourself, head over to [picoCTF](htt
 | [Nice netcat...](./General%20Skills/Nice%20netcat.../) | 15 | &check; |
 | [Static ain't always noise](./General%20Skills/Static%20ain't%20always%20noise/) | 20 | &check; |
 | [Tab, Tab, Attack](./General%20Skills/Tab,%20Tab,%20Attack/) | 20 | &check; |
-| [Magikarp Ground Mission](./General%20Skills/Magikarp%20Ground%20Mission/) | 30 | 
+| [Magikarp Ground Mission](./General%20Skills/Magikarp%20Ground%20Mission/) | 30 | &check; |
 
 </details>
 
@@ -76,8 +76,8 @@ If you'd like to try some of these problems yourself, head over to [picoCTF](htt
 | Title | Points | Solved | 
 | ----- | :----: | :----: |
 | [information](./Forensics/information/) | 10 | &check; |
-| [Matryoshka doll](./Forensics/Matryoshka%20doll/) | 30 | 
-| [tunn3l v1s10n](./Forensics/tunn3l%20v1s10n/) | 40 | 
+| [Matryoshka doll](./Forensics/Matryoshka%20doll/) | 30 | &check; |
+| [tunn3l v1s10n](./Forensics/tunn3l%20v1s10n/) | 40 | &check; |
 | [Wireshark doo dooo do doo...](./Forensics/Wireshark%20doo%20dooo%20do%20doo.../) | 50 | 
 | [MacroHard WeakEdge](./Forensics/MacroHard%20WeakEdge/) | 60 | 
 | [Trivial Flag Transfer Protocol](./Forensics/Trivial%20Flag%20Transfer%20Protocol/) | 90 | 
