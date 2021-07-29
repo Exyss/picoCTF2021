@@ -13,7 +13,7 @@ If you'd like to try some of these problems yourself, head on over to [PicoGym](
 | [Obedient Cat](./General%20Skills/Obedient%20Cat/) | 5 | &check; |
 | [Python Wrangling](./General%20Skills/Python%20Wrangling/) | 10 | &check; |
 | [Wave a flag](./General%20Skills/Waving%20Flag/) | 10 | &check; |
-| [Nice netcat...](./General%20Skills/Nice%20netcat/) | 15 | &check; |
+| [Nice netcat...](./General%20Skills/Nice%20netcat.../) | 15 | &check; |
 | [Static ain't always noise](./General%20Skills/Static%20ain't%20always%20noise/) | 20 | &check; |
 | [Tab, Tab, Attack](./General%20Skills/Tab%2C%20Tab%2C%20Attack/) | 20 | &check; |
 | [Magikarp Ground Mission](./General%20Skills/Magikarp%20Ground%20Mission/) | 30 | 
