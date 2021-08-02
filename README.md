@@ -28,7 +28,7 @@ If you'd like to try some of these problems yourself, head over to [picoCTF](htt
 | ----- | :----: | :----: |
 | [Mod 26](./Cryptography/Mod%2026/) | 10 | &check; |
 | [Mind your Ps and Qs](./Cryptography/Mind%20your%20Ps%20and%20Qs/) | 20 | &check; |
-| [Easy Peasy](./Cryptography/Easy%20Peasy/) | 40 | 
+| [Easy Peasy](./Cryptography/Easy%20Peasy/) | 40 | &check; |
 | [New Caesar](./Cryptography/New%20Caesar/) | 60 | 
 | [Mini RSA](./Cryptography/Mini%20RSA/) | 70 | 
 | [Dachshund Attacks](./Cryptography/Dachshund%20Attacks/) | 80 | 
@@ -51,7 +51,7 @@ If you'd like to try some of these problems yourself, head over to [picoCTF](htt
 | Title | Points | Solved | 
 | ----- | :----: | :----: |
 | [GET aHEAD](./Web%20Exploitation/GET%20aHEAD/) | 20 | &check; |
-| [Cookies](./Web%20Exploitation/Cookies/) | 40 | 
+| [Cookies](./Web%20Exploitation/Cookies/) | 40 | &check; |
 | [Scavenger Hunt](./Web%20Exploitation/Scavenger%20Hunt/) | 50 | 
 | [Some Assembly Required 1](./Web%20Exploitation/Some%20Assembly%20Required%201/) | 70 | 
 | [More Cookies](./Web%20Exploitation/More%20Cookies/) | 90 | 
@@ -99,7 +99,7 @@ If you'd like to try some of these problems yourself, head over to [picoCTF](htt
 | [Transformation](./Reverse%20Engineering/Transformation/) | 20 | &check; |
 | [keygenme-py](./Reverse%20Engineering/keygenme-py/) | 30 | &check; |
 | [crackme-py](./Reverse%20Engineering/crackme-py/) | 30 | &check; |
-| [ARMssembly 0](./Reverse%20Engineering/ARMssembly%200/) | 40 | 
+| [ARMssembly 0](./Reverse%20Engineering/ARMssembly%200/) | 40 | &cross; |
 | [speeds and feeds](./Reverse%20Engineering/speeds%20and%20feeds/) | 50 | 
 | [Shop](./Reverse%20Engineering/Shop/) | 50 | 
 | [ARMssembly 1](./Reverse%20Engineering/ARMssembly%201/) | 70 | 
