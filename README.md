@@ -100,7 +100,7 @@ If you'd like to try some of these problems yourself, head over to [picoCTF](htt
 | [keygenme-py](./Reverse%20Engineering/keygenme-py/) | 30 | &check; |
 | [crackme-py](./Reverse%20Engineering/crackme-py/) | 30 | &check; |
 | [ARMssembly 0](./Reverse%20Engineering/ARMssembly%200/) | 40 | &cross; |
-| [speeds and feeds](./Reverse%20Engineering/speeds%20and%20feeds/) | 50 | 
+| [speeds and feeds](./Reverse%20Engineering/speeds%20and%20feeds/) | 50 | &check; |
 | [Shop](./Reverse%20Engineering/Shop/) | 50 | 
 | [ARMssembly 1](./Reverse%20Engineering/ARMssembly%201/) | 70 | 
 | [ARMssembly 2](./Reverse%20Engineering/ARMssembly%202/) | 90 | 
