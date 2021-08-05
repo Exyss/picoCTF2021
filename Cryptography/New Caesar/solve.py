@@ -43,15 +43,6 @@ def unshift(c, k):
 
     return chr(t1 + LOWERCASE_OFFSET)
 
-def inv_modulo(a, p):
-    for d in range(1, p):
-        r = (d * a) % p
-        if r == 1:
-            break
-    else:
-        raise ValueError('%d has no inverse mod %d' % (a, p))
-    return d
-
 # -------------------------------------- SOLUTION
 
 enc = "ihjghbjgjhfbhbfcfjflfjiifdfgffihfeigidfligigffihfjfhfhfhigfjfffjfeihihfdieieih"
