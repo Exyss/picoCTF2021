@@ -7,7 +7,7 @@
 * Author: Sara
 
 ## Description
-In RSA, a small e value can be problematic, but what about `N`? Can you decrypt this? [values](https://mercury.picoctf.net/static/b9ddda080c56fb421bf30409bec3460d/values)
+> In RSA, a small e value can be problematic, but what about `N`? Can you decrypt this? [values](https://mercury.picoctf.net/static/b9ddda080c56fb421bf30409bec3460d/values)
 
 ## Hints
 

@@ -11,7 +11,7 @@ Best Stuff - Cheap Stuff, Buy Buy Buy... Store Instance: [source](https://mercur
 
 ## Hints
 
-1. Always check edge cases when programming
+> 1. Always check edge cases when programming
 
 ## Approach
 

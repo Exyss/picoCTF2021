@@ -7,7 +7,7 @@
 * Author: Syreal
 
 ## Description
-Do you know how to move between directories and read files in the shell? Start the container, `ssh` to it, and then `ls` once connected to begin. Login via `ssh` as `ctf-player` with the password, `ee388b88`
+> Do you know how to move between directories and read files in the shell? Start the container, `ssh` to it, and then `ls` once connected to begin. Login via `ssh` as `ctf-player` with the password, `ee388b88`
 
 ALERT: This challenge launches an instance on demand. You can start it [here](https://play.picoctf.org/practice/challenge/189?originalEvent=34&page=1&search=&solved=1)
 

@@ -7,7 +7,7 @@
 * Author: Syreal
 
 ## Description
-[crackme.py](https://mercury.picoctf.net/static/db4b9e7a2862c320aa6b40e3551406bd/crackme.py)
+> [crackme.py](https://mercury.picoctf.net/static/db4b9e7a2862c320aa6b40e3551406bd/crackme.py)
 
 ## Hints
 
