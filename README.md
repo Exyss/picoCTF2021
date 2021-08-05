@@ -78,10 +78,10 @@ If you'd like to try some of these problems yourself, head over to [picoCTF](htt
 | [information](./Foresincs/information/) | 10 | &check; |
 | [Matryoshka doll](./Foresincs/Matryoshka%20doll/) | 30 | &check; |
 | [tunn3l v1s10n](./Foresincs/tunn3l%20v1s10n/) | 40 | &check; |
-| [Wireshark doo dooo do doo...](./Foresincs/Wireshark%20doo%20dooo%20do%20doo.../) | 50 | 
+| [Wireshark doo dooo do doo...](./Foresincs/Wireshark%20doo%20dooo%20do%20doo.../) | 50 | &check; |
 | [MacroHard WeakEdge](./Foresincs/MacroHard%20WeakEdge/) | 60 | 
 | [Trivial Flag Transfer Protocol](./Foresincs/Trivial%20Flag%20Transfer%20Protocol/) | 90 | 
-| [Wireshark twoo twooo two twoo...](./Foresincs/Wireshark%20twoo%20twooo%20two%20twoo.../) | 100 | 
+| [Wireshark twoo twooo two twoo...](./Foresincs/Wireshark%20twoo%20twooo%20two%20twoo.../) | 100 | &check; |
 | [Disk, disk, sleuth!](./Foresincs/Disk,%20disk,%20sleuth!/) | 110 | 
 | [Milkslap](./Foresincs/Milkslap/) | 120 | 
 | [Disk, disk, sleuth! II](./Foresincs/Disk,%20disk,%20sleuth!%20II/) | 130 | 
