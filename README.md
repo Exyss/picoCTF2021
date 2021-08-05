@@ -29,7 +29,7 @@ If you'd like to try some of these problems yourself, head over to [picoCTF](htt
 | [Mod 26](./Cryptography/Mod%2026/) | 10 | &check; |
 | [Mind your Ps and Qs](./Cryptography/Mind%20your%20Ps%20and%20Qs/) | 20 | &check; |
 | [Easy Peasy](./Cryptography/Easy%20Peasy/) | 40 | &check; |
-| [New Caesar](./Cryptography/New%20Caesar/) | 60 | 
+| [New Caesar](./Cryptography/New%20Caesar/) | 60 | &check; |
 | [Mini RSA](./Cryptography/Mini%20RSA/) | 70 | 
 | [Dachshund Attacks](./Cryptography/Dachshund%20Attacks/) | 80 | 
 | [No Padding, No problem](./Cryptography/No%20Padding,%20No%20problem/) | 90 | 
@@ -52,7 +52,7 @@ If you'd like to try some of these problems yourself, head over to [picoCTF](htt
 | ----- | :----: | :----: |
 | [GET aHEAD](./Web%20Exploitation/GET%20aHEAD/) | 20 | &check; |
 | [Cookies](./Web%20Exploitation/Cookies/) | 40 | &check; |
-| [Scavenger Hunt](./Web%20Exploitation/Scavenger%20Hunt/) | 50 | 
+| [Scavenger Hunt](./Web%20Exploitation/Scavenger%20Hunt/) | 50 | &check; |
 | [Some Assembly Required 1](./Web%20Exploitation/Some%20Assembly%20Required%201/) | 70 | 
 | [More Cookies](./Web%20Exploitation/More%20Cookies/) | 90 | 
 | [It is my Birthday](./Web%20Exploitation/It%20is%20my%20Birthday/) | 100 | 
@@ -79,7 +79,7 @@ If you'd like to try some of these problems yourself, head over to [picoCTF](htt
 | [Matryoshka doll](./Foresincs/Matryoshka%20doll/) | 30 | &check; |
 | [tunn3l v1s10n](./Foresincs/tunn3l%20v1s10n/) | 40 | &check; |
 | [Wireshark doo dooo do doo...](./Foresincs/Wireshark%20doo%20dooo%20do%20doo.../) | 50 | &check; |
-| [MacroHard WeakEdge](./Foresincs/MacroHard%20WeakEdge/) | 60 | 
+| [MacroHard WeakEdge](./Foresincs/MacroHard%20WeakEdge/) | 60 | &check; |
 | [Trivial Flag Transfer Protocol](./Foresincs/Trivial%20Flag%20Transfer%20Protocol/) | 90 | 
 | [Wireshark twoo twooo two twoo...](./Foresincs/Wireshark%20twoo%20twooo%20two%20twoo.../) | 100 | &check; |
 | [Disk, disk, sleuth!](./Foresincs/Disk,%20disk,%20sleuth!/) | 110 | 
@@ -101,7 +101,7 @@ If you'd like to try some of these problems yourself, head over to [picoCTF](htt
 | [crackme-py](./Reverse%20Engineering/crackme-py/) | 30 | &check; |
 | [ARMssembly 0](./Reverse%20Engineering/ARMssembly%200/) | 40 | &cross; |
 | [speeds and feeds](./Reverse%20Engineering/speeds%20and%20feeds/) | 50 | &check; |
-| [Shop](./Reverse%20Engineering/Shop/) | 50 | 
+| [Shop](./Reverse%20Engineering/Shop/) | 50 | &check; |
 | [ARMssembly 1](./Reverse%20Engineering/ARMssembly%201/) | 70 | 
 | [ARMssembly 2](./Reverse%20Engineering/ARMssembly%202/) | 90 | 
 | [Hurry up! Wait!](./Reverse%20Engineering/Hurry%20up!%20Wait!/) | 100 | 
