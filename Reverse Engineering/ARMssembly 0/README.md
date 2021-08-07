@@ -42,17 +42,17 @@ func1:
 
 	;These instructions basically store the two register's values on memory
 	;and invert the invert the two register values
-	str	w0, [sp, 12]	;w0 -> [sp - 12]
+	str	w0, [sp, 12]		;w0 -> [sp - 12]
 	str	w1, [sp, 8]		;w1 -> [sp - 8]
-	ldr	w1, [sp, 12]	;w1 <- [sp - 12]	(the memory value of w0)
+	ldr	w1, [sp, 12]		;w1 <- [sp - 12]	(the memory value of w0)
 	ldr	w0, [sp, 8]		;w0 <- [sp - 8] 	(the memory value of w1)
 
 	cmp	w1, w0			;compare w1 with w0
 
-	bls	.L2				;bls = branch if lower or same (branch if w1 <= w0)
-	ldr	w0, [sp, 12] 	;w0 <- [sp - 12]	(the memory value of w0)
+	bls	.L2			;bls = branch if lower or same (branch if w1 <= w0)
+	ldr	w0, [sp, 12] 		;w0 <- [sp - 12]	(the memory value of w0)
 
-	b	.L3				;unconditional branch
+	b	.L3			;unconditional branch
 .L2:
 	ldr	w0, [sp, 8]		;w0 <- [sp - 8] (the memory value of w1)
 
@@ -60,7 +60,7 @@ func1:
 	;will continue with the next following instruction (add	sp, sp, 16)
 .L3:
 	add	sp, sp, 16		;sp <- sp + 16  (fills up the stack pointer again)
-	ret					;return
+	ret				;return
 	.size	func1, .-func1
 	.section	.rodata
 	.align	3
@@ -91,7 +91,7 @@ As we can see, this means that the procedure will always return the __biggest__ 
 
 6. We now have to convert this number and format the flag by running this python instruction:
 ```python
-"picoCTF{" + "{:x}".format(3854998744) + "}"
+print("picoCTF{" + "{:x}".format(3854998744) + "}")
 ```
 
 ## Flag
