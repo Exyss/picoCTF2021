@@ -53,7 +53,7 @@ If you'd like to try some of these problems yourself, head over to [picoCTF](htt
 | [GET aHEAD](./Web%20Exploitation/GET%20aHEAD/) | 20 | &check; |
 | [Cookies](./Web%20Exploitation/Cookies/) | 40 | &check; |
 | [Scavenger Hunt](./Web%20Exploitation/Scavenger%20Hunt/) | 50 | &check; |
-| [Some Assembly Required 1](./Web%20Exploitation/Some%20Assembly%20Required%201/) | 70 | 
+| [Some Assembly Required 1](./Web%20Exploitation/Some%20Assembly%20Required%201/) | 70 | &check; |
 | [More Cookies](./Web%20Exploitation/More%20Cookies/) | 90 | 
 | [It is my Birthday](./Web%20Exploitation/It%20is%20my%20Birthday/) | 100 | 
 | [Who are you?](./Web%20Exploitation/Who%20are%20you/) | 100 | 
@@ -99,7 +99,7 @@ If you'd like to try some of these problems yourself, head over to [picoCTF](htt
 | [Transformation](./Reverse%20Engineering/Transformation/) | 20 | &check; |
 | [keygenme-py](./Reverse%20Engineering/keygenme-py/) | 30 | &check; |
 | [crackme-py](./Reverse%20Engineering/crackme-py/) | 30 | &check; |
-| [ARMssembly 0](./Reverse%20Engineering/ARMssembly%200/) | 40 | &cross; |
+| [ARMssembly 0](./Reverse%20Engineering/ARMssembly%200/) | 40 | &check; |
 | [speeds and feeds](./Reverse%20Engineering/speeds%20and%20feeds/) | 50 | &check; |
 | [Shop](./Reverse%20Engineering/Shop/) | 50 | &check; |
 | [ARMssembly 1](./Reverse%20Engineering/ARMssembly%201/) | 70 | 
