@@ -15,7 +15,7 @@
 
 ## Approach
 
-1. To solve this challenge you must first understand how to solve the [previous one](../ARMssembly0/)
+1. To solve this challenge you must first understand how to solve the [previous one](../ARMssembly%200/)
 
 2. The main part of the program (with my personal added comments) states the following:
 ```assembly
