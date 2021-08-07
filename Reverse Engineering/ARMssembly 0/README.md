@@ -36,7 +36,7 @@ main:
 This means that the program consists in printing out the value contained in the w1 register __after__ running the `func1` procedure
 
 3. The `func1` procedure runs the following instructions:
-```
+```assembly
 func1:
 	sub	sp, sp, #16		;sp <- sp - #16     (this just makes space in the stack pointer)
 
