@@ -24,14 +24,14 @@ main:
     
     mov	w1, w0		;w1 = first func1 argument (3854998744)
     mov	w0, w19		;w0 = second func1 argument (915131509)
-	bl	func1		;jump to func1
+    bl	func1		;jump to func1 
 
-	mov	w1, w0		;w1 <- w0
+    mov	w1, w0		;w1 <- w0
 
-	adrp	x0, .LC0
-	add	x0, x0, :lo12:.LC0
+    adrp	x0, .LC0
+    add	x0, x0, :lo12:.LC0
 
-	bl	printf		;print w1
+    bl	printf		;print w1
 ```
 This means that the program consists in printing out the value contained in the w1 register __after__ running the `func1` procedure
 
