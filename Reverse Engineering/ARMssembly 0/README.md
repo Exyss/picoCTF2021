@@ -23,7 +23,7 @@ main:
     ;register setups in order to get the two passed arguments
     
     mov	w1, w0		;w1 = first func1 argument (3854998744)
-	mov	w0, w19		;w0 = second func1 argument (915131509)
+    mov	w0, w19		;w0 = second func1 argument (915131509)
 	bl	func1		;jump to func1
 
 	mov	w1, w0		;w1 <- w0
