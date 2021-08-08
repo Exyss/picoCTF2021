@@ -125,7 +125,7 @@ print(f"The value is: {w0}")
 However, running this code would take __way to long__ since the looping will run `1748687564 times` due to w1 getting increased by only 1 every time. But don't worry! We can use the secret power of math to find the answer!
 
 6. Since the code will be executed 1748687564 times and every time it executes the memory address `[sp - 24]` gets increased by 3, we have to just calculate `1748687564 * 3 = 5246062692` in order to find the value.
-Then, we have to convert the value in the usual hex format by running the python line `print("{:x}".format(5246062692))`, getting the hex number `138b09064`, which uses 36 bits (remember that the format requires __32 bits!!__), meaning that we have to cut of the first digit to get the flag.
+Then, we have to convert the value in the usual hex format by running the python line `print("{:x}".format(5246062692))`, getting the hex number `138b09064`, which uses 36 bits (remember that the format requires __32 bits!!__), meaning that we have to cut off the first digit to get the flag.
 
 ## Flag
 
