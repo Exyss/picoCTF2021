@@ -103,7 +103,7 @@ If you'd like to try some of these problems yourself, head over to [picoCTF](htt
 | [speeds and feeds](./Reverse%20Engineering/speeds%20and%20feeds/) | 50 | &check; |
 | [Shop](./Reverse%20Engineering/Shop/) | 50 | &check; |
 | [ARMssembly 1](./Reverse%20Engineering/ARMssembly%201/) | 70 |  &check; |
-| [ARMssembly 2](./Reverse%20Engineering/ARMssembly%202/) | 90 | 
+| [ARMssembly 2](./Reverse%20Engineering/ARMssembly%202/) | 90 | &check; |
 | [Hurry up! Wait!](./Reverse%20Engineering/Hurry%20up!%20Wait!/) | 100 | 
 | [gogo](./Reverse%20Engineering/gogo/) | 110 | 
 | [ARMssembly 3](./Reverse%20Engineering/ARMssembly%203/) | 130 | 
