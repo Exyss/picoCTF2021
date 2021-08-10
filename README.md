@@ -106,7 +106,7 @@ If you'd like to try some of these problems yourself, head over to [picoCTF](htt
 | [ARMssembly 2](./Reverse%20Engineering/ARMssembly%202/) | 90 | &check; |
 | [Hurry up! Wait!](./Reverse%20Engineering/Hurry%20up!%20Wait!/) | 100 | 
 | [gogo](./Reverse%20Engineering/gogo/) | 110 | 
-| [ARMssembly 3](./Reverse%20Engineering/ARMssembly%203/) | 130 | 
+| [ARMssembly 3](./Reverse%20Engineering/ARMssembly%203/) | 130 | &check; |
 | [Let's get dynamic](./Reverse%20Engineering/Let's%20get%20dynamic/) | 150 | 
 | [Easy as GDB](./Reverse%20Engineering/Easy%20as%20GDB/) | 160 | 
 | [ARMssembly 4](./Reverse%20Engineering/ARMssembly%204/) | 170 | 
