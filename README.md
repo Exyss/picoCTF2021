@@ -109,10 +109,10 @@ If you'd like to try some of these problems yourself, head over to [picoCTF](htt
 | [ARMssembly 3](./Reverse%20Engineering/ARMssembly%203/) | 130 | &check; |
 | [Let's get dynamic](./Reverse%20Engineering/Let's%20get%20dynamic/) | 150 | 
 | [Easy as GDB](./Reverse%20Engineering/Easy%20as%20GDB/) | 160 | 
-| [ARMssembly 4](./Reverse%20Engineering/ARMssembly%204/) | 170 | 
+| [ARMssembly 4](./Reverse%20Engineering/ARMssembly%204/) | 170 | &check; |
 | [Powershelly](./Reverse%20Engineering/Powershelly/) | 180 | 
 | [Rolling My Own](./Reverse%20Engineering/Rolling%20My%20Own/) | 300 | 
-| [Powershelly](./Reverse%20Engineerin/Checkpass/) | 375 | 
+| [Checkpass](./Reverse%20Engineerin/Checkpass/) | 375 | 
 
 </details>
 
